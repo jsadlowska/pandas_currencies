@@ -25,21 +25,17 @@ Seaborn 0.13.2
 
 ## Installation
 Clone the repository:
+  Skopiuj kod
+      git clone https://github.com/j.sadlowska/pandas_currencies
+      cd pandas_currencies
 
-bash
-Skopiuj kod
-git clone https://github.com/j.sadlowska/pandas_currencies
-cd pandas_currencies
 Install the required Python packages:
+  Skopiuj kod
+      pip install pandas matplotlib jupyter
 
-bash
-Skopiuj kod
-pip install pandas matplotlib jupyter
 Launch Jupyter Notebook:
-
-bash
-Skopiuj kod
-jupyter notebook
+  Skopiuj kod
+      jupyter notebook
 
 ## Open and run the notebooks in the following order for the best experience:
 1_Data_preparation.ipynb
@@ -50,3 +46,8 @@ jupyter notebook
 
 ## Conclusion
 This project provides a comprehensive framework for analyzing exchange rate data and evaluating investment strategies. By following the structured approach across the five notebooks, you will gain insights into currency trends and investment profitability based on historical data. Happy analyzing!
+
+## Author
+This project was created by Justyna Sadłowska. You can reach out with any questions or feedback via justyna.sadlowska.1234@wp.pl or connect https://www.linkedin.com/in/justyna-sad%C5%82owska-0210792b5.
+
+
