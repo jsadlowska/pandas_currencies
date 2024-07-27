@@ -6,11 +6,11 @@ This project involves analyzing exchange rate data using Pandas in Jupyter Noteb
 ## Project Structure
 The project consists of the following Jupyter Notebooks:
 
-1_Data_preparation.ipynb  
-2_Analysis_of_average_monthly_exchange_rates.ipynb  
-3_Investment_analysis.ipynb  
-4_Minimum_and_maximum_investment_analysis.ipynb  
-5_Most_profitable_investments_in_a_given_month.ipynb
+    1_Data_preparation.ipynb  
+    2_Analysis_of_average_monthly_exchange_rates.ipynb  
+    3_Investment_analysis.ipynb  
+    4_Minimum_and_maximum_investment_analysis.ipynb  
+    5_Most_profitable_investments_in_a_given_month.ipynb
 
 ## Getting Started
 Prerequisites
@@ -25,19 +25,20 @@ Ensure you have the following installed:
 
 ## Installation
 Clone the repository:  
-  Skopiuj kod  
-      git clone https://github.com/j.sadlowska/pandas_currencies  
-      cd pandas_currencies  
+
+    git clone https://github.com/j.sadlowska/pandas_currencies  
+    cd pandas_currencies  
       
-Install the required Python packages:  
-  Skopiuj kod  
-      pip install pandas matplotlib jupyter  
+Install the required Python packages: 
+ 
+    pip install pandas matplotlib jupyter  
       
 Launch Jupyter Notebook:  
-  Skopiuj kod  
-      jupyter notebook
+  
+    jupyter notebook
 
 ## Open and run the notebooks in the following order for the best experience:  
+
     1_Data_preparation.ipynb  
     2_Analysis_of_average_monthly_exchange_rates.ipynb  
     3_Investment_analysis.ipynb  
